@@ -1,0 +1,4 @@
+db/
+.env
+finxlog_api.exe
+tmp
